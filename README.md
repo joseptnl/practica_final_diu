@@ -41,14 +41,50 @@ A continuación, usando los cuestionarios que hay subidos con el nombre de **rev
 
 > Valoración de usabilidad:
 > 
-> 
+> 74 / 100
 
 - [GuruWalk](https://github.com/joseptnl/practica_final_diu/blob/main/revision%20usabilidad%20guruwalk.xlsx)
 
 > Valoración de usabilidad:
 > 
-> 
+> 93 / 100
 
 ## Análisis subjetivo
+
+### Los usuarios
+
+Para poder crear los usuarios de manera aleatoria se han usado los siguientes dados, cada uno define un atributo en concreto de la personalidad y el transfondo de los personajes:
+
+<img src="./img/dices.png"/>
+
+Se generan 3 números aleatorios para generar cada uno de los dos perfiles. Estos han quedan como sigue:
+
+| id | Sexo / edad | Ocupación | Experiencia internet | Perfil cubierto |
+|----|------|--------------|-------------|-----|
+| Arturo García | Hombre / 24 | Estudiante | Alto | Un hombre social pero muy ocupado y a veces iracundo. |
+| Sara Gómez | Mujer / 39 | Oficinista | Intermedio | Una mujer familiar que le gusta hablar y está angustiada. |
+| Alberto Sánchez | Hombre / 34 | Basurero | Intermedio | Una hombre zen que que le gusta el senderismo y está feliz. |
+| Iñaki Laboa | Hombre / 19 | Camarero | Alto | Una chico social que le gusta la fiesta y se suele sorprender. |
+
+Cabe destacar también la experiencia de estos usuarios en el uso de las distintas plataformas:
+
+| Plataforma | Arturo García | Sara Gómez | Alberto Sánchez | Iñaki Laboa |
+|------|------|------|------|
+| Windows | 5 / 5 | 4 / 5 | 3 / 5 | 1 / 5 |
+| Mac | 0 / 5 | 0 / 5 | 0 / 5 | 5 / 5 |
+| Linux | 0 / 5 | 0 / 5 | 0 / 5 | 0 / 5 |
+| Iphone | 5 / 5 | 1 / 5 | 0 / 5 | 5 / 5 |
+
+### Valoración de la usabilida basada en su UX
+
+A continuación se muestran los resultados del cuestionario sus. Los primeros dos usuarios se han usado para evaluar la aplicación de CityMe y los otros dos para la aplicación de GuruWalk:
+
+<img src="./img/resultados_sus.png"/>
+
+Como podemos ver los usuarios le han asignado una puntuación promedia de **63,75** a CityMe y de **83,875** a GuruWalk.
+
+## Conclusiones
+
+
 
 
