@@ -85,6 +85,8 @@ Como podemos ver los usuarios le han asignado una puntuación promedia de **63,7
 
 ## Conclusiones
 
+En conclusión podemos ver como claramente se ha valorado la aplicación de GuruWalk por encima de la de CityMe. Tanto los resultados del análisis más técnico como los del estudio subjetivo corroboran esta valoración con valores relativamente proporcionales entre los dos. Cabe destacar que las cifras obtenidos en el test de los usuarios son relativamente menores ya que los usuarios tienden a realizar evaluaciones a la baja sobretodo si se basan en sensaciones y emociones.
 
+Aún así, tampoco se puede dar una respuesta rotunda acerca de sí los modelos free tour son mejores que el que propone CityMe, ya que si bien los datos respaldan la decisión hay que tener en cuenta que la segunda es una propuesta mucho más joven y por lo tanto menos desarrollada. Podría ser que en un futuro se cambiaran las tornas.
 
 
