@@ -26,14 +26,28 @@ A continuación se muestra una tabla con la comparación de los servicios ofreci
 | Buscador de tours | No | Sí | 
 | Libertad | Completa libertad de visita | No mucha, es un sistema más rígido |
 | Gratuito | Sí pero con ciertas restricciones | En absoluto |
-| Poder ser guía | No | Sí |
+| Permite al usuario convertirse en guía | No | Sí |
 | Flexibilidad horaria | Completa | Poca, los tours están programados |
 | Diferentes guías y puntos de vista | No, solo hay un "guía" para cada ciudad | Enorme variedad de tours y guías a través de los mismos sitios |
 | Landing page funcional | Solo para información, te lleva a descargar la app | Permite visualizar toda la información acerca de los tours y la aplicación así como reservar |
 
+Como podemos observar hay mucha diferencia entre los servicios y funcionalidades ofrecidos por cada propuesta de valor. CityMe parece que a simple viste ofrece unos servicios más restringidos, sin embargo, hay que tener en cuenta que su valor se basa en que se tiene completa libertad de movimiento y en no depender de ningún guía. Debido a esto, muchas cosas que tiene GuruWalk no pueden ser ofrecidas de igual manera.
+
 ### Revisión de la usabilidad
 
+A continuación, usando los cuestionarios que hay subidos con el nombre de **revision usabilidad "nombreapp".xlsx**, se han obtenido los siguientes resultados:
 
+- CityMe [cuestionario]()
+
+> Valoración de usabilidad:
+> 
+> 
+
+- GuruWalk [cuestionario]()
+
+> Valoración de usabilidad:
+> 
+> 
 
 ## Análisis subjetivo
 
