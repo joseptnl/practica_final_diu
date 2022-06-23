@@ -37,13 +37,13 @@ Como podemos observar hay mucha diferencia entre los servicios y funcionalidades
 
 A continuación, usando los cuestionarios que hay subidos con el nombre de **revision usabilidad "nombreapp".xlsx**, se han obtenido los siguientes resultados:
 
-- CityMe [cuestionario]()
+- [CityMe](https://github.com/joseptnl/practica_final_diu/blob/main/revision%20usabilidad%20cityme.xlsx)
 
 > Valoración de usabilidad:
 > 
 > 
 
-- GuruWalk [cuestionario]()
+- [GuruWalk](https://github.com/joseptnl/practica_final_diu/blob/main/revision%20usabilidad%20guruwalk.xlsx)
 
 > Valoración de usabilidad:
 > 
