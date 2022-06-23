@@ -69,7 +69,7 @@ Se generan 3 números aleatorios para generar cada uno de los dos perfiles. Esto
 Cabe destacar también la experiencia de estos usuarios en el uso de las distintas plataformas:
 
 | Plataforma | Arturo García | Sara Gómez | Alberto Sánchez | Iñaki Laboa |
-|------|------|------|------|
+|------|------|------|------|------|
 | Windows | 5 / 5 | 4 / 5 | 3 / 5 | 1 / 5 |
 | Mac | 0 / 5 | 0 / 5 | 0 / 5 | 5 / 5 |
 | Linux | 0 / 5 | 0 / 5 | 0 / 5 | 0 / 5 |
